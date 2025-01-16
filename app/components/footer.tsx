@@ -2,18 +2,8 @@
 
 import React from "react";
 import { useTheme } from "next-themes"; // Import the hook
-
-import {
-    FaXTwitter,
-    FaGithub,
-    FaInstagram,
-    FaRss,
-    FaLinkedinIn,
-} from "react-icons/fa6";
 import { LuGithub, LuLinkedin } from "react-icons/lu";
 import { HiOutlineMail } from "react-icons/hi";
-
-import { TbMailFilled } from "react-icons/tb";
 import { metaData, socialLinks } from "app/config";
 
 const YEAR = new Date().getFullYear();

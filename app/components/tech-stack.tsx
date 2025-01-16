@@ -4,7 +4,7 @@ import { socialLinks } from "../config";
 export default function TechStack() {
     return (
         <section>
-            <h1 className="mb-8 mt-14 text-3xl font-medium tracking-tight justify-center md:text-left">
+            <h1 className="mb-8 mt-14 text-3xl font-medium tracking-tight justify-center md:text-left underline decoration-2 underline-offset-8">
                 Technologies I Work With
             </h1>
 

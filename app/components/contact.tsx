@@ -1,7 +1,7 @@
 export default function Contact() {
     return (
         <section>
-            <h1 className="mb-8 mt-14 text-3xl font-medium tracking-tight">
+            <h1 className="mb-8 mt-14 text-3xl font-medium tracking-tight underline decoration-2 underline-offset-8">
                 Have an idea? Let's make it happen!
             </h1>
 
