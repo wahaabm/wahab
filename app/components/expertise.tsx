@@ -5,14 +5,14 @@ export default function Expertise() {
                 What I Do
             </h1>
 
-            <div className="space-y-8 text-left md:text-justify ">
+            <div className="space-y-8 text-justify md:text-left ">
                 {/* Full-Stack Web Development */}
                 <div className="flex items-start">
                     <div>
                         <h2 className="font-bold text-xl">
                             Full-Stack Web Development
                         </h2>
-                        <p className="text-lg leading-relaxed">
+                        <p className="text-lg leading-relaxed ">
                             I build robust, secure, and scalable web
                             applications using TypeScript, React, Next.js,
                             Node.js, Express, Fastify, and .NET.

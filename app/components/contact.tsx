@@ -1,11 +1,11 @@
 export default function Contact() {
     return (
         <section>
-            <h1 className="mb-8 mt-14 text-3xl font-medium tracking-tight underline decoration-2 underline-offset-8">
+            <h1 className="mb-8 mt-14 text-3xl font-medium tracking-tight underline decoration-2 underline-offset-8 text-center md:text-left">
                 Have an idea? Let's make it happen!
             </h1>
 
-            <div className="prose prose-bold prose-lg dark:prose-invert space-y-1 text-justify ">
+            <div className="prose prose-bold prose-lg dark:prose-invert space-y-1 text-center md:text-left ">
                 <p
                     style={{
                         marginBottom: "0px",
